@@ -1,4 +1,4 @@
-# JuegoDeDadosPoo
+# JuegoDeDados_primeraFase_Poo
 Lanza los dados y calcula el porcentaje de victorias y derrotas, guarda la información el Mysql y Mongo
 
 El juego de dados se juega con dos dados. En caso de que el resultado de la suma de ambos dados sea 7, la partida será ganada, si no es perdida. Un jugador/a puede ver un listado de todas las tiradas que ha realizado y el porcentaje de éxito.
